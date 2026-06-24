@@ -8,6 +8,7 @@
 <a href="https://linkedin.com/in/sherif-thabit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sherifthabit9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://wa.me/201069192977"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.credly.com/users/sherif-thabit"><img src="https://img.shields.io/badge/Credly-sherif__thabit-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
 
 </div>
 
