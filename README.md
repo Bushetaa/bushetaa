@@ -19,6 +19,7 @@ markdown
 
 > Network Administrator with hands-on experience in enterprise network design, routing, switching, and high-availability. Bridging traditional networking with **cloud** and **DevOps**.
 
+- 💼 **Offline Coordinator** @ [eyouth](https://eyouth.com)
 - 🎓 CS Graduate — Arish University | GPA: **3.74**
 - 🌐 **CCNA & CCNP** Certified
 - ☁️ AWS Cloud & DevOps Trained
@@ -34,6 +35,8 @@ markdown
 
 **🌐 Networking**
 <br><br>
+<img src="https://img.shields.io/badge/Routing-00599C?style=flat&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Switching-00599C?style=flat&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/VLAN-00599C?style=flat&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/OSPF-00599C?style=flat&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/HSRP-00599C?style=flat&logo=cisco&logoColor=white" />
