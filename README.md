@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Sherif+Thabit+Ahmed;Network+Administrator;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
@@ -13,7 +12,7 @@
 
 ---
 
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWIR6A48nJQ9pizFHIPCm8lY6kDEgGprsEho-IR3v2Qm_wBnmm7Xm2oE0&s=10" width="180" alt="eyouth" />
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREDmZxNsEg22feTBhbvxzZznf2AIkMJWbj5PTz86RVKg&s=10" width="180" alt="eyouth" />
 
 ### 👋 About Me
 
@@ -149,21 +148,42 @@ User/group management & centralized security policies via Group Policy Objects.
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="middle">
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Bushetaa&theme=onedark&no-frame=true&no-bg=true&column=-1&margin-w=10" width="100%" />
+</div>
+
+</td>
+<td width="50%" valign="middle">
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bushetaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bushetaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
+<img src="https://z-cdn-media.chatglm.cn/files/a8ed4346-feab-4b95-ad21-c736345a5fb2.jpeg?auth_key=1882280371-4af2fee581a3475a9815a15b442b41fb-0-4b9be05612b7d561f72374e0db61c4fb" width="130" height="130" style="border-radius: 50%; border: 5px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.6);" alt="Sherif Thabit" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Bushetaa&theme=tokyonight&hide_border=true&background=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="60%" />
+<h3 style="color: #58a6ff; font-family: 'Fira Code', monospace;">✦ Let's Connect! ✦</h3>
 
+<br>
+
+<a href="https://linkedin.com/in/sherif-thabit"><img src="https://img.shields.io/badge/LinkedIn-sherif_thabit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Bushetaa&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" />
-
+<a href="mailto:sherifthabit9@gmail.com"><img src="https://img.shields.io/badge/Email-sherifthabit9-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br><br>
+<a href="https://wa.me/201069192977"><img src="https://img.shields.io/badge/WhatsApp-+20%20106%20919%202977-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
 
