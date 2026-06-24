@@ -19,7 +19,7 @@
 
 > Network Administrator with hands-on experience in enterprise network design, **routing**, **switching**, and high-availability. Bridging traditional networking with **cloud** and **DevOps**.
 
-- 💼 **Offline Coordinator** @ [eyouth](https://eyouth.com](https://eyouthlearning.com/en)) *(Current)*
+- 💼 **Offline Coordinator** @ [Eyouth](https://eyouthlearning.com/en) *(Current)*
 - 🚀 Co-Founder of **SolidPoint** — AI Content Summarization
 - 🎓 CS Graduate — Arish University | GPA: **3.74**
 - 🌐 **CCNA & CCNP** Certified
