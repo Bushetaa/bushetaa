@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Sherif+Thabit+Ahmed;Network+Administrator;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
@@ -12,7 +13,7 @@
 
 ---
 
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREDmZxNsEg22feTBhbvxzZznf2AIkMJWbj5PTz86RVKg&s=10" width="180" alt="eyouth" />
+<img align="right" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCAxODAgNjAiPjxyZWN0IHdpZHRoPSIxODAiIGhlaWdodD0iNjAiIHJ4PSIxMCIgZmlsbD0iIzFjMWMyZSIgc3Ryb2tlPSIjMDBkM2I2IiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSI1MCUiIHk9IjU1JSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjI2IiBmaWxsPSIjMDBkM2I2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiBmb250LXdlaWdodD0iYm9sZCI+ZXlvdXRoPC90ZXh0Pjwvc3Zn+" width="180" alt="eyouth" />
 
 ### 👋 About Me
 
@@ -148,17 +149,6 @@ User/group management & centralized security policies via Group Policy Objects.
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="middle">
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bushetaa&theme=onedark&no-frame=true&no-bg=true&column=-1&margin-w=10" width="100%" />
-</div>
-
-</td>
-<td width="50%" valign="middle">
-
 <div align="center">
 
 <img src="https://z-cdn-media.chatglm.cn/files/a8ed4346-feab-4b95-ad21-c736345a5fb2.jpeg?auth_key=1882280371-4af2fee581a3475a9815a15b442b41fb-0-4b9be05612b7d561f72374e0db61c4fb" width="130" height="130" style="border-radius: 50%; border: 5px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.6);" alt="Sherif Thabit" />
@@ -175,17 +165,8 @@ User/group management & centralized security policies via Group Policy Objects.
 <br><br>
 <a href="https://wa.me/201069192977"><img src="https://img.shields.io/badge/WhatsApp-+20%20106%20919%202977-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-</div>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
 
 </div>
-```
