@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCAxODAgNjAiPjxyZWN0IHdpZHRoPSIxODAiIGhlaWdodD0iNjAiIHJ4PSIxMCIgZmlsbD0iIzFjMWMyZSIgc3Ryb2tlPSIjMDBkM2I2IiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSI1MCUiIHk9IjU1JSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjI2IiBmaWxsPSIjMDBkM2I2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiBmb250LXdlaWdodD0iYm9sZCI+ZXlvdXRoPC90ZXh0Pjwvc3Zn+" width="180" alt="eyouth" />
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREDmZxNsEg22feTBhbvxzZznf2AIkMJWbj5PTz86RVKg&s=10" width="180" alt="eyouth" />
 
 ### 👋 About Me
 
