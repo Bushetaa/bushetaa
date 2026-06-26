@@ -15,6 +15,8 @@
 
 ### 👋 About Me
 
+<img align="right" src="https://eyouthlearning.com/en/wp-content/uploads/2022/05/eyouth-logo.png" width="130" alt="Eyouth" />
+
 > Network Administrator with hands-on experience in enterprise network design, **routing**, **switching**, and high-availability implementation. Passionate about bridging traditional networking with **cloud** and **DevOps** to build scalable, resilient systems.
 
 - 💼 **Offline Coordinator** @ [Eyouth](https://eyouthlearning.com/en) *(Current)*
@@ -24,6 +26,8 @@
 - ☁️ **AWS Cloud & DevOps** Trained (DEPI Round 3)
 - 🏆 Hackathon participant | Online C++ & OOP Instructor @ PNA Academy
 - 🌍 Based in Egypt | Open to remote & on-site opportunities
+
+<br clear="right"/>
 
 ---
 
@@ -115,6 +119,8 @@ Centralized gateway with routing, load balancing, rate limiting & authentication
 <img src="https://img.shields.io/badge/VoIP-FF6600?style=flat" />
 <br>
 Full inter-branch banking network over WAN with DNS, DHCP, email servers & SSL/TLS.
+<br>
+<a href="https://github.com/Bushetaa/FutureNet-Banking-Network-Infrastructure"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" /></a>
 
 <br><br>
 
@@ -205,6 +211,42 @@ Arish University — Egypt | GPA: **3.74**
 ### 🌍 Languages
 
 🇪🇬 Arabic (Native) · 🇬🇧 English (Intermediate / Professional)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bushetaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bushetaa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bushetaa&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 📁 More Repositories
+
+<div align="center">
+
+<a href="https://github.com/Bushetaa/Hospital-network-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bushetaa&repo=Hospital-network-project&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Bushetaa/oop--">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bushetaa&repo=oop--&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Bushetaa/PythonScreenRecorder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bushetaa&repo=PythonScreenRecorder&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Bushetaa/python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bushetaa&repo=python&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
