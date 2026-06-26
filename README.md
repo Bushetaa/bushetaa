@@ -131,6 +131,8 @@ Full inter-branch banking network over WAN with DNS, DHCP, email servers & SSL/T
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 <br>
 Graduation project for the DEPI DevOps track. Built complete AWS infrastructure with Terraform (VPC, ECR, EKS, Load Balancer, IAM, Security Groups, IGW, NAT, public + private subnets) and GitHub Actions CI/CD (backend.yaml, frontend.yaml, deploy.yaml). EKS cluster with managed node groups running 2 worker nodes, fully automated deploys triggered via `terraform apply`. Built a web scraper API on top with full IaC provisioning.
+<br>
+<a href="https://github.com/AmrHossamkamel/Canary-DEPI"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -161,6 +163,8 @@ A scalable cloud-based e-learning platform supporting thousands of concurrent us
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
 <br>
 Co-founded an AI SaaS platform for summarizing YouTube videos, Reddit threads, and web articles. Owned cloud ops, CI/CD, and infrastructure reliability. Optimized Docker images by **70%** (200 MB → 60 MB), improved platform operations from 30% → 70%, and boosted user experience by **23%** through personalization. Built a production-monitoring Telegram bot using n8n + AI agent. Monitoring stack uses Uptime Kuma.
+<br>
+<a href="https://solidpoint.ai"><img src="https://img.shields.io/badge/Live_Site-58A6FF?style=flat&logo=vercel&logoColor=white" /></a>
 
 <br><br>
 
@@ -252,11 +256,13 @@ Arish University — Egypt | GPA: **3.74**
 
 ---
 
-### 🏆 GitHub Trophies
+### 🌐 Live Projects
 
 <div align="center">
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=Bushetaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<a href="https://solidpoint.ai"><img src="https://img.shields.io/badge/SolidPoint.ai-Live_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
 
 </div>
 
