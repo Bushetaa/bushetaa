@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Sherif+Thabit+Ahmed;Network+Administrator;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
@@ -14,8 +13,6 @@
 
 ---
 
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREDmZxNsEg22feTBhbvxzZznf2AIkMJWbj5PTz86RVKg&s=10" width="180" alt="eyouth" />
-
 ### 👋 About Me
 
 > Network Administrator with hands-on experience in enterprise network design, **routing**, **switching**, and high-availability. Bridging traditional networking with **cloud** and **DevOps**.
@@ -25,8 +22,6 @@
 - 🎓 CS Graduate — Arish University | GPA: **3.74**
 - 🌐 **CCNA & CCNP** Certified
 - ☁️ AWS Cloud & DevOps Trained
-
-<br clear="right"/>
 
 ---
 
@@ -51,19 +46,34 @@
 </td>
 <td valign="top" width="50%">
 
-**☁️ Cloud & DevOps**
+**☁️ Cloud Platforms**
 <br><br>
 <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS_VPC-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_RDS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_ECR-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Auto_Scaling-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Load_Balancer-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
 
 </td>
 </tr>
 <tr>
+<td valign="top" width="50%">
+
+**🔄 DevOps & Automation**
+<br><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-FF6B6B?style=flat&logo=n8n&logoColor=white" />
+
+</td>
 <td valign="top" width="50%">
 
 **💻 Systems & Tools**
@@ -74,6 +84,8 @@
 <img src="https://img.shields.io/badge/Packet_Tracer-00599C?style=flat&logo=cisco&logoColor=white" />
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **🐍 Programming**
@@ -110,6 +122,16 @@ Centralized gateway with routing, load balancing, rate limiting & authentication
 <br>
 Full inter-branch banking network over WAN with DNS, DHCP, email servers & SSL/TLS.
 
+<br><br>
+
+**🔄 Canary-DEPI — Full DevOps Architecture**
+<br>
+<a href="https://github.com/sherif-thabit/canary-depi"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/EKS-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+<br>
+Graduation project for the DEPI DevOps track. Built complete AWS infrastructure with Terraform (VPC, ECR, EKS, Load Balancer, IAM, Security Groups, IGW, NAT, public + private subnets) and GitHub Actions CI/CD (backend.yaml, frontend.yaml, deploy.yaml). EKS cluster with managed node groups running 2 worker nodes, fully automated deploys triggered via terraform apply. Built a web scraper API on top with full IaC provisioning.
+
 </td>
 <td width="50%" valign="top">
 
@@ -129,6 +151,24 @@ Containerized app on AWS EKS with automated CI/CD pipeline & IaC.
 <img src="https://img.shields.io/badge/GPO-00599C?style=flat" />
 <br>
 User/group management & centralized security policies via Group Policy Objects.
+
+<br><br>
+
+**📚 PNA — Cloud E-Learning Platform**
+<br>
+<a href="https://github.com/sherif-thabit/pna"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<br>
+A scalable cloud-based e-learning platform supporting thousands of concurrent users with 99.9% uptime. Implemented subscription-based payments and course management, improving content availability by 70%. High-availability architecture designed for fault tolerance and performance under load.
+
+<br><br>
+
+**🤖 SolidPoint.ai — AI Content Summarization Platform**
+<br>
+<a href="https://solidpoint.ai"><img src="https://img.shields.io/badge/Live_Site-4285F4?style=flat&logo=google-chrome&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/AI_SaaS-FF6B6B?style=flat" />
+<br>
+Co-founded an AI SaaS platform for summarizing YouTube videos, Reddit threads, and web articles. Owned cloud operations, CI/CD, containerized deployments, and infrastructure reliability. Built backend pipelines with n8n integrating the YouTube API, Reddit API, and AI summarization models. Optimized Docker images by 70% (200 MB → 60 MB), improved platform operations from 30% → 70%, and improved user experience by 23% through personalization. Built a production-monitoring Telegram bot using n8n + an AI agent that scrapes logs and alerts on production issues. Implemented authentication with Nhost and customized the Hasura GraphQL database layer. Monitoring stack uses Uptime Kuma.
 
 </td>
 </tr>
@@ -150,11 +190,31 @@ User/group management & centralized security policies via Group Policy Objects.
 
 ---
 
+### 🏅 Awards & Activities
+
+| Date | Achievement | Issuer |
+|------|------------|--------|
+| 🥈 Mar 29, 2024 | 2nd Place — University Cultural Competition | Arish University |
+| 🏆 Sep 27–29, 2024 | 7th Place — AI Week Conference Hackathon (with team) | Mansoura University |
+| 👨‍🏫 Ongoing | Online Instructor — OOP & C++ (PNA Academy YouTube channel) | PNA Academy |
+
+---
+
+### 🎓 Education
+
+**Bachelor of Computer Science** · Sep 2022 → Jun 2026
+<br>
+Arish University — Egypt
+
+---
+
+### 🌍 Languages
+
+🇪🇬 Arabic (Native) · 🇬🇧 English (Intermediate)
+
+---
+
 <div align="center">
-
-<img src="https://z-cdn-media.chatglm.cn/files/a8ed4346-feab-4b95-ad21-c736345a5fb2.jpeg?auth_key=1882280371-4af2fee581a3475a9815a15b442b41fb-0-4b9be05612b7d561f72374e0db61c4fb" width="130" height="130" style="border-radius: 50%; border: 5px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.6);" alt="Sherif Thabit" />
-
-<br><br>
 
 <h3 style="color: #58a6ff; font-family: 'Fira Code', monospace;">✦ Let's Connect! ✦</h3>
 
