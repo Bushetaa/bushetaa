@@ -17,13 +17,13 @@
 
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREDmZxNsEg22feTBhbvxzZznf2AIkMJWbj5PTz86RVKg&s=10" width="130" alt="Eyouth" />
 
-> Network Administrator with hands-on experience in enterprise network design, **routing**, **switching**, and high-availability implementation. Passionate about bridging traditional networking with **cloud** and **DevOps** to build scalable, resilient systems.
+> Results-driven Network Administrator & Cloud/DevOps Engineer with proven experience designing and deploying enterprise-grade infrastructure. Specialized in building high-availability networks, automating cloud deployments on AWS, and delivering end-to-end DevOps pipelines — from infrastructure as code to production monitoring. Passionate about turning complex systems into scalable, resilient, and fully automated solutions.
 
 - 💼 **Offline Coordinator** @ [Eyouth](https://eyouthlearning.com/en) *(Current)*
 - 🚀 **Co-Founder** of **SolidPoint** — AI Content Summarization Platform
 - 🎓 **CS Graduate** — Arish University | GPA: **3.74**
 - 🌐 **CCNA & CCNP** Certified | **CyberOps Associate**
-- ☁️ **AWS Cloud & DevOps** Trained (DEPI Round 3)
+- ☁️ **AWS Cloud & DevOps** Certified
 - 🏆 Hackathon participant | Online C++ & OOP Instructor @ PNA Academy
 - 🌍 Based in Egypt | Open to remote & on-site opportunities
 
