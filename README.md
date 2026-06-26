@@ -260,7 +260,7 @@ Arish University — Egypt | GPA: **3.74**
 
 <div align="center">
 
-<a href="https://solidpoint.ai"><img src="https://img.shields.io/badge/SolidPoint.ai-Live_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Bushetaa"><img src="https://img.shields.io/badge/View_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
