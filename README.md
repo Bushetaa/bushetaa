@@ -252,6 +252,56 @@ Arish University — Egypt | GPA: **3.74**
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bushetaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bushetaa&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Bushetaa/Bushetaa/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+
+</div>
+
+---
+
+### 👁️ Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Bushetaa&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+### 💬 Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
 <div align="center">
 
 <h3 style="color: #58a6ff; font-family: 'Fira Code', monospace;">✦ Let's Connect! ✦</h3>
