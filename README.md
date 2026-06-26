@@ -39,6 +39,24 @@
 
 ---
 
+### 📊 Impact at a Glance
+
+<div align="center">
+
+| Metric | Result |
+|--------|--------|
+| 🐳 Docker image size reduction | 200 MB → 60 MB **(70% smaller)** |
+| 📈 Operations efficiency @ SolidPoint.ai | 30% → 70% **(+133%)** |
+| 🚀 User experience improvement (personalization) | **+23%** |
+| 🛡️ Secure tunneling service efficiency (MAMR) | **+89%** |
+| 🔍 Manual monitoring reduction (Ghaymah CLI/API) | **−60%** |
+| ⚙️ Manual cloud interventions (Ghaymah CLI) | **−70%** |
+| ⏱️ Production uptime @ SolidPoint.ai | **99.9%** |
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 <table>
