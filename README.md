@@ -15,13 +15,15 @@
 
 ### 👋 About Me
 
-> Network Administrator with hands-on experience in enterprise network design, **routing**, **switching**, and high-availability. Bridging traditional networking with **cloud** and **DevOps**.
+> Network Administrator with hands-on experience in enterprise network design, **routing**, **switching**, and high-availability implementation. Passionate about bridging traditional networking with **cloud** and **DevOps** to build scalable, resilient systems.
 
 - 💼 **Offline Coordinator** @ [Eyouth](https://eyouthlearning.com/en) *(Current)*
-- 🚀 Co-Founder of **SolidPoint** — AI Content Summarization
-- 🎓 CS Graduate — Arish University | GPA: **3.74**
-- 🌐 **CCNA & CCNP** Certified
-- ☁️ AWS Cloud & DevOps Trained
+- 🚀 **Co-Founder** of **SolidPoint** — AI Content Summarization Platform
+- 🎓 **CS Graduate** — Arish University | GPA: **3.74**
+- 🌐 **CCNA & CCNP** Certified | **CyberOps Associate**
+- ☁️ **AWS Cloud & DevOps** Trained (DEPI Round 3)
+- 🏆 Hackathon participant | Online C++ & OOP Instructor @ PNA Academy
+- 🌍 Based in Egypt | Open to remote & on-site opportunities
 
 ---
 
@@ -71,7 +73,7 @@
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-FF6B6B?style=flat&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
 
 </td>
 <td valign="top" width="50%">
@@ -82,14 +84,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Packet_Tracer-00599C?style=flat&logo=cisco&logoColor=white" />
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**🐍 Programming**
-<br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 
@@ -124,13 +118,13 @@ Full inter-branch banking network over WAN with DNS, DHCP, email servers & SSL/T
 
 <br><br>
 
-**🔄 Canary-DEPI — Full DevOps Architecture**
+**🚀 Canary-DEPI — Full DevOps Architecture**
 <br>
-<a href="https://github.com/sherif-thabit/canary-depi"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/EKS-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 <br>
-Graduation project for the DEPI DevOps track. Built complete AWS infrastructure with Terraform (VPC, ECR, EKS, Load Balancer, IAM, Security Groups, IGW, NAT, public + private subnets) and GitHub Actions CI/CD (backend.yaml, frontend.yaml, deploy.yaml). EKS cluster with managed node groups running 2 worker nodes, fully automated deploys triggered via terraform apply. Built a web scraper API on top with full IaC provisioning.
+Graduation project for the DEPI DevOps track. Built complete AWS infrastructure with Terraform (VPC, ECR, EKS, Load Balancer, IAM, Security Groups, IGW, NAT, public + private subnets) and GitHub Actions CI/CD (backend.yaml, frontend.yaml, deploy.yaml). EKS cluster with managed node groups running 2 worker nodes, fully automated deploys triggered via `terraform apply`. Built a web scraper API on top with full IaC provisioning.
 
 </td>
 <td width="50%" valign="top">
@@ -145,30 +139,31 @@ Containerized app on AWS EKS with automated CI/CD pipeline & IaC.
 
 <br><br>
 
+**📚 PNA — Cloud E-Learning Platform**
+<br>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/High_Availability-40C057?style=flat" />
+<br>
+A scalable cloud-based e-learning platform supporting thousands of concurrent users with 99.9% uptime. Implemented subscription-based payments and course management, improving content availability by 70%. High-availability architecture designed for fault tolerance and performance under load.
+
+<br><br>
+
+**🤖 SolidPoint.ai — AI Content Summarization**
+<br>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<br>
+Co-founded an AI SaaS platform for summarizing YouTube videos, Reddit threads, and web articles. Owned cloud ops, CI/CD, and infrastructure reliability. Optimized Docker images by **70%** (200 MB → 60 MB), improved platform operations from 30% → 70%, and boosted user experience by **23%** through personalization. Built a production-monitoring Telegram bot using n8n + AI agent. Monitoring stack uses Uptime Kuma.
+
+<br><br>
+
 **🛡️ Active Directory Lab**
 <br>
 <img src="https://img.shields.io/badge/AD-0078D4?style=flat&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/GPO-00599C?style=flat" />
 <br>
 User/group management & centralized security policies via Group Policy Objects.
-
-<br><br>
-
-**📚 PNA — Cloud E-Learning Platform**
-<br>
-<a href="https://github.com/sherif-thabit/pna"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-<br>
-A scalable cloud-based e-learning platform supporting thousands of concurrent users with 99.9% uptime. Implemented subscription-based payments and course management, improving content availability by 70%. High-availability architecture designed for fault tolerance and performance under load.
-
-<br><br>
-
-**🤖 SolidPoint.ai — AI Content Summarization Platform**
-<br>
-<a href="https://solidpoint.ai"><img src="https://img.shields.io/badge/Live_Site-4285F4?style=flat&logo=google-chrome&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/AI_SaaS-FF6B6B?style=flat" />
-<br>
-Co-founded an AI SaaS platform for summarizing YouTube videos, Reddit threads, and web articles. Owned cloud operations, CI/CD, containerized deployments, and infrastructure reliability. Built backend pipelines with n8n integrating the YouTube API, Reddit API, and AI summarization models. Optimized Docker images by 70% (200 MB → 60 MB), improved platform operations from 30% → 70%, and improved user experience by 23% through personalization. Built a production-monitoring Telegram bot using n8n + an AI agent that scrapes logs and alerts on production issues. Implemented authentication with Nhost and customized the Hasura GraphQL database layer. Monitoring stack uses Uptime Kuma.
 
 </td>
 </tr>
@@ -182,9 +177,9 @@ Co-founded an AI SaaS platform for summarizing YouTube videos, Reddit threads, a
 
 <img src="https://img.shields.io/badge/CCNA-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/CCNP-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/CyberOps-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/CyberOps_Associate-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/DevOps-40C057?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps_DEPI-40C057?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -196,21 +191,20 @@ Co-founded an AI SaaS platform for summarizing YouTube videos, Reddit threads, a
 |------|------------|--------|
 | 🥈 Mar 29, 2024 | 2nd Place — University Cultural Competition | Arish University |
 | 🏆 Sep 27–29, 2024 | 7th Place — AI Week Conference Hackathon (with team) | Mansoura University |
-| 👨‍🏫 Ongoing | Online Instructor — OOP & C++ (PNA Academy YouTube channel) | PNA Academy |
+| 👨‍🏫 Ongoing | Online Instructor — OOP & C++ | PNA Academy YouTube |
 
 ---
 
 ### 🎓 Education
 
-**Bachelor of Computer Science** · Sep 2022 → Jun 2026
-<br>
-Arish University — Egypt
+**Bachelor of Computer Science** · Sep 2022 → Jun 2026  
+Arish University — Egypt | GPA: **3.74**
 
 ---
 
 ### 🌍 Languages
 
-🇪🇬 Arabic (Native) · 🇬🇧 English (Intermediate)
+🇪🇬 Arabic (Native) · 🇬🇧 English (Intermediate / Professional)
 
 ---
 
