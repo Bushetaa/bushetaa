@@ -15,7 +15,7 @@
 
 ### 👋 About Me
 
-<img align="right" src="https://eyouthlearning.com/en/wp-content/uploads/2022/05/eyouth-logo.png" width="130" alt="Eyouth" />
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREDmZxNsEg22feTBhbvxzZznf2AIkMJWbj5PTz86RVKg&s=10" width="130" alt="Eyouth" />
 
 > Network Administrator with hands-on experience in enterprise network design, **routing**, **switching**, and high-availability implementation. Passionate about bridging traditional networking with **cloud** and **DevOps** to build scalable, resilient systems.
 
@@ -229,7 +229,9 @@ Arish University — Egypt | GPA: **3.74**
 
 ---
 
-### 📁 More Repositories
+### 📁 Public Repositories
+
+> 🔓 All repositories below are publicly available — feel free to explore, fork, or contribute!
 
 <div align="center">
 
