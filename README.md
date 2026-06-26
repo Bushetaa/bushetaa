@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Sherif+Thabit+Ahmed;Network+Administrator;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Sherif+Thabit+Ahmed;Network+Administrator;Cloud+%26+DevOps+Engineer;Co-Founder+%40+SolidPoint.ai;CCNA+%26+CCNP+Certified" alt="Typing SVG" />
 
 <br><br>
 
@@ -28,6 +28,14 @@
 - 🌍 Based in Egypt | Open to remote & on-site opportunities
 
 <br clear="right"/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏆_Hackathons-2-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/☁️_Cloud_Projects-5+-FF9900?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📜_Certifications-5-40C057?style=for-the-badge" />
+
+</div>
 
 ---
 
