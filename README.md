@@ -49,9 +49,10 @@
 | 📈 Operations efficiency @ SolidPoint.ai | 30% → 70% **(+133%)** |
 | 🚀 User experience improvement (personalization) | **+23%** |
 | 🛡️ Secure tunneling service efficiency (MAMR) | **+89%** |
-| 🔍 Manual monitoring reduction (Ghaymah CLI/API) | **−60%** |
-| ⚙️ Manual cloud interventions (Ghaymah CLI) | **−70%** |
 | ⏱️ Production uptime @ SolidPoint.ai | **99.9%** |
+| 🏥 Hospital network segments (VLANs) | **Multi-VLAN** segmented across all departments |
+| 🔁 Network redundancy protocols deployed | **HSRP + EtherChannel + STP + OSPF** |
+| 🔐 Security layers implemented | **SSH + Port Security + RBAC + Password Hardening** |
 
 </div>
 
@@ -235,6 +236,19 @@ Co-founded an AI SaaS platform for summarizing YouTube videos, Reddit threads, a
 <img src="https://img.shields.io/badge/GPO-00599C?style=flat" />
 <br>
 User/group management & centralized security policies via Group Policy Objects.
+
+<br><br>
+
+**🏥 AlShifa Hospital Network Infrastructure**
+<br>
+<img src="https://img.shields.io/badge/HSRP-00599C?style=flat&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/OSPF-40C057?style=flat" />
+<img src="https://img.shields.io/badge/VLAN-00599C?style=flat&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/EtherChannel-FF6600?style=flat" />
+<br>
+Comprehensive hospital network designed for high availability, redundancy & security. Implemented HSRP + EtherChannel for zero-downtime, OSPF for dynamic routing, multi-VLAN segmentation across all departments, and full security hardening via SSH, Port Security & RBAC. Led as **Team Leader & Troubleshooting Engineer**.
+<br>
+<a href="https://github.com/Bushetaa/Hospital-network-project"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
