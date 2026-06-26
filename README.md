@@ -97,6 +97,41 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bushetaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bushetaa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bushetaa&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bushetaa&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Bushetaa/Bushetaa/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+
+</div>
+
+---
+
 ### 🏗️ Featured Projects
 
 <table>
@@ -181,6 +216,29 @@ User/group management & centralized security policies via Group Policy Objects.
 
 ---
 
+### 📁 Public Repositories
+
+> 🔓 All repositories below are publicly available — feel free to explore, fork, or contribute!
+
+<div align="center">
+
+<a href="https://github.com/Bushetaa/Hospital-network-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bushetaa&repo=Hospital-network-project&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Bushetaa/oop--">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bushetaa&repo=oop--&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Bushetaa/PythonScreenRecorder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bushetaa&repo=PythonScreenRecorder&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Bushetaa/python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bushetaa&repo=python&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
 ### 📜 Certifications
 
 <div align="center">
@@ -218,81 +276,11 @@ Arish University — Egypt | GPA: **3.74**
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bushetaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bushetaa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bushetaa&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-### 📁 Public Repositories
-
-> 🔓 All repositories below are publicly available — feel free to explore, fork, or contribute!
-
-<div align="center">
-
-<a href="https://github.com/Bushetaa/Hospital-network-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bushetaa&repo=Hospital-network-project&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Bushetaa/oop--">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bushetaa&repo=oop--&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Bushetaa/PythonScreenRecorder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bushetaa&repo=PythonScreenRecorder&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Bushetaa/python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bushetaa&repo=python&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 ### 🌐 Live Projects
 
 <div align="center">
 
 <a href="https://github.com/Bushetaa"><img src="https://img.shields.io/badge/View_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
-</div>
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bushetaa&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Bushetaa/Bushetaa/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-
-</div>
-
----
-
-### 👁️ Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Bushetaa&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -303,6 +291,16 @@ Arish University — Egypt | GPA: **3.74**
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+### 👁️ Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Bushetaa&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
 
