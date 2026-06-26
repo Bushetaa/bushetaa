@@ -256,7 +256,7 @@ Arish University — Egypt | GPA: **3.74**
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bushetaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Bushetaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" onerror="this.src='https://github-trophies.vercel.app/?username=Bushetaa&theme=tokyonight&no-frame=true&margin-w=8'" />
 
 </div>
 
